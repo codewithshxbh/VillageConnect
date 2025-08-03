@@ -15,6 +15,9 @@ dist/
 .env.test.local
 .env.production.local
 
+# Keep the example file
+!.env.example
+
 # IDE and editor files
 .vscode/
 .idea/

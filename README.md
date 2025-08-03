@@ -45,7 +45,12 @@ cd backend
 npm install
 ```
 
-Create a `.env` file in the backend directory:
+Create a `.env` file in the backend directory (copy from `.env.example`):
+```bash
+cp .env.example .env
+```
+
+Then update the `.env` file with your configuration:
 ```env
 MONGODB_URI=mongodb://127.0.0.1:27017/villageconnect
 JWT_SECRET=your_jwt_secret_key_here
