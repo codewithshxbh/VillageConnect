@@ -35,7 +35,7 @@ A modern MERN stack application connecting rural communities with local services
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/VillageConnect.git
+git clone https://github.com/codewithshxbh/VillageConnect.git
 cd VillageConnect
 ```
 
@@ -187,9 +187,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+codewithshxbh - [chakshubh7@gmail.com](mailto:chakshubh7@gmail.com)
 
-Project Link: [https://github.com/yourusername/VillageConnect](https://github.com/yourusername/VillageConnect)
+Project Link: [https://github.com/codewithshxbh/VillageConnect](https://github.com/codewithshxbh/VillageConnect)
 
 ---
 
